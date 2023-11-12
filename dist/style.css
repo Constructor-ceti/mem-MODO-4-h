@@ -1,0 +1,14 @@
+body{
+  background-color:gray;
+}
+.img{
+  display:flex;
+  justify-content:center;
+}
+img{
+  border:dashed 10px;
+}
+h1{
+  border:solid 3px red;
+  text-align:center;
+}
